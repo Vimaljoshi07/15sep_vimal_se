@@ -1,0 +1,93 @@
+                                                    module: 1
+
+
+     1) What Is Software ? 
+     ~  Software is a collection of codes, document ,and triggers that does a specific job and fills 
+         a specific requirement.
+         is that provide the instructions for telling a computer what to do and how to do it.
+
+         What Is Software engineering?
+      -  engineering is the development of products using best practices,principels and methods.
+      - it oprerates within a set of principles, best practices and methods that have been carefully
+        honed throught the years, changing as software and technology change.
+
+    - software engineering leads to a product that is reliable, efficient , and effetive at what it does.
+      while software engineering can lead to products that do not do this , the product will almost always 
+      always go back into the producction stage.
+
+
+ 
+  2) Explation types of software
+   
+ -  main types of software is below there
+  
+   1) APPLICATION SOFTWARE 
+   2)SYSTEM SOFTWARE
+   3) PROGRAMMING SOFTWARE  
+
+
+      1) applications software - this is the most common type of computer softwareand can be     defined as end-user programs that help you perform tasks or achieve a desired outcome. 
+   the end user is the person who  is actually using a product or program .(they are the one for 
+    whom the "end result" is designed.)
+     some exemples of applicatio software include internet browsers, a crm tool like hubspot, a  
+   photo- editing software like adobe or lightroom, or a word processing application like    microsoft.
+
+  2) system software - help the user, the computer or mobile device, and an application all work 
+   together seamlessly. this makes system software crucial to running any kind of applcation    software as well as the whole computer system.
+
+    think about  when your laptop or phone has an update. this is system software in action there is a tweak mode to the system software that helps your computer or phone continue to work well and keep applications running. apples's IOS is an exemples of system software, as is 
+ microsoft windows.
+   system software is always running in the backgroud of your device, but it is never somethiing you will use directly.
+
+
+   3)Programming software : while application software is designed for end-users, and systtem software is designed 
+   for computers  or mobile devices, programming software is for computer programmers and developres who are writing code. 
+  these are programs the are used to write, develop, test, and debug other software programs. it's helpful to think of these programs as  a translator  of sorts, they take programming languages like laravel, python, c++, and more and translate them into something a computer or phone will understand.
+
+
+
+ 3)What is SDLC ? Explain each phase of SDLC 
+ -  software development life cycle is the appplcation of standard business practices to building softwware application. it's 
+  typically divided into six to eight steps: planning, requirements, design, build,document, test, deploy, maintain. some project
+  managers will combine , split, or omit steps, depending on the project's scope, these are the core components recommended for   all software development projects.
+  
+    --software development life cycle works in six phases
+
+     1) Requirement gathering -  part of planning to determine what the application is supposed to do and its requirements. 
+      for exemples, a social media applicaion would require the ability to connect with a friend. an inventory program might require a search feature.
+    requirement also include defining the resources needed t build the project.
+
+   2) Analysis - The analysis stage includes gathering all the specific details required for a new system as well as determining 
+       the first ideas for prototypes.
+       developer may: 
+       - define any prototype system requirements 
+       - evaluate alternatives to existing prototypes 
+       -perform research and analysis to determine the needs to end -users
+
+    3) Design: The design stage is a necessary precursor to the main developer .
+         - develper will first outline the details for the overall application, alongside specific aspects, such as its:
+
+        > user interfaces 
+        > system interfaces
+        > network and network requirements   
+        > databases
+
+     4) implementation : the overall design for the software will come togheter. diffrent modules, or designs will be integrated nto the primary source code through developer efforts, usually by leveraging trainiiing enviroments to defect further errors or defects.
+
+    5) Testing: building software is not the end.   now it must be tested o make sure that there aren't any bugs and that end-user experience will not negatively be affected at any point.
+    during, the testing stage, developers will go over their software with a fine-tooth comb, noting any bugs or defects that need to be  tracked, fixed, and later retested.
+
+   6) maintanance : The SDLC doesn't end when software reaches the market. Developers must now move into a maintance mode 
+   and begin practicing any activities required to handle issues reported by end-users.
+    furthermore, developer are responsible for implementing any changes that the software might need after deployment. 
+  
+
+
+
+
+
+
+
+
+
+    
