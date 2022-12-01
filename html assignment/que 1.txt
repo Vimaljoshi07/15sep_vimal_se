@@ -1,0 +1,21 @@
+                                                        HTML
+
+1) Define the terms: Website, Webpage, Web browser, Web server, HTML, CSS
+--- 
+	website:  A collection of web pages which are grouped together and usually connected 
+                  together in various ways.
+	
+	webpage: A document which can be displayed in a web browser such as Firefox
+	Google Chrome, Opera..these are also often called pages.
+	
+	webserver:A computer that hosts a website on the Internet.
+	
+	web browser: are applications for displaying web pages.	
+
+	html:HTML is a descriptive language that specifies webpage structure.
+	
+	css:CSS stands for Cascading Style Sheets
+	CSS describes how HTML elements are to be displayed on screen, paper, or in other media
+	CSS saves a lot of work. It can control the layout of multiple web pages all at once
+	External stylesheets are stored in CSS files
+	
